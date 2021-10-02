@@ -1,4 +1,4 @@
-package changeBase
+package core
 
 /**
  *  class that save one string formatted
